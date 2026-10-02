@@ -1,2 +1,2 @@
 # telebot_video_converter
-telegram bot using python
+telegram bot, using python
