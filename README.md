@@ -1,4 +1,4 @@
-# SuperSlavik Video Bot
+# Video Bot
 
 SuperSlavik is a Python Telegram bot that processes videos with MoviePy and sends them back as MP4 files. The `/run` command displays a welcome message in Armenian.
 
